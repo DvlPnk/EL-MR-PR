@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.things{
+    background-image: url("background.jpg");
+    background-size: cover;
+}
+
+.contenido1{
+    background-color: #fbfcfd;
+    width: 500px;
+    padding: 30px;
+    margin: 30px;
+    color: black;
+    text-align: center;
+}
+
+nav{
+    color: black;
+    font-size: x-large;
+    text-align: center;
+}
+
+a{
+    color: red;
+}
+
+button{
+    color:black;
+    padding: 10px 25px;
+    background: rgb(78, 174, 253);
+    border: 2px solid black; 
+    border-radius: 20px ;
+    outline: none;
+    cursor: pointer;
+}
+
+.electro{
+    width: 300px;
+    cursor: pointer;
+}
+.laptop{
+    width: 250px;
+    cursor: pointer;
+}
+.phone{
+    width: 200px;
+    cursor: pointer;
+}
+
+.products{
+    width: 300px;
+    cursor: pointer;
+}
+
